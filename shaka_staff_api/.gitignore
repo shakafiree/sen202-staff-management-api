@@ -1,0 +1,7 @@
+shaka_sen202_env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+db.sqlite3
+.env
